@@ -1,16 +1,49 @@
-### Hi there 👋
+### Hello World! I'm Michael aka XFox 👋
+I'm a .NET Software Developer
 
-<!--
-**XFox111/XFox111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on YouTube client for Windows 10 🎞 and IoT stuff 🏡
+- 🌱 I’m currently learning quantum computing 🎇✨ and AI 🤖
+- 💬 Ask me about UWP, C#, or other .NET stuff 🐱‍🏍
+- 📫 How to reach me: michael@xfox111.net ✉
+- 😄 Pronouns: Fantastic Mr. Fox 🦊
+- ⚡ Fun fact: HTML is not a programming language
 
-Here are some ideas to get you started:
+### Contact me on
+[<img alt="XFox111.NET | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img alt="XFox111 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img alt="XFox | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages and Tools:
+
+<img alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/
+80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img alt="C Sharp" width="26px" src="https://xfox111.net/images/Badges/csharp.png" />
+<img alt=".NET" width="26px" src="https://xfox111.net/images/Badges/dotnet.png" />
+<img alt="ASP.NET" width="26px" src="https://xfox111.net/images/Badges/aspnet.png" />
+<img alt="Windows" width="26px" src="https://xfox111.net/images/Badges/windows.png" />
+<img alt="Xamarin" width="26px" src="https://xfox111.net/images/Badges/xamarin.png" />
+<img alt="Android" width="26px" src="https://xfox111.net/images/Badges/android.png" />
+<img alt="JavaScript" width="26px" src="https://xfox111.net/images/Badges/javascript.png" />
+<img alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img alt="Microsoft Edge" width="26px" src="https://xfox111.net/images/Badges/edge.png" />
+<img alt="GitHub" width="26px" src="https://xfox111.net/images/Badges/github.png" />
+
+### 📰 My recent blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+### Support me
+Community support is very important: the less I concern about getting money, the more I'm focused on contributing to Community 
+
+<a href="https://www.buymeacoffee.com/xfox111" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/lato-orange.png" alt="Buy Me A Coffee" style="height: 51px !important;width: 217px !important;" ></a>
+
+---
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=xfox111&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xfox111&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[website]: https://xfox111.net
+[twitter]: https://twitter.com/xfox111
+[linkedin]: https://linkedin.com/in/xfox
