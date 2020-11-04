@@ -30,11 +30,11 @@ I'm a .NET Software Developer
 
 ### 📰 My recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Setting up CI/CD for Web-browser extension with GitHub Actions](https://xfox111.blogspot.com/2020/11/setting-up-cicd-for-web-browser.html)
 - [Password generator extension: High security in one click!](https://xfox111.blogspot.com/2020/10/password-generator-extension-high.html)
 - [Developing browser extensions with Visual Studio Code](https://xfox111.blogspot.com/2020/09/developing-browser-extensions-with.html)
 - [Tabs Aside now available on Firefox!](https://xfox111.blogspot.com/2020/08/tabs-aside-now-available-on-firefox.html)
 - [Embedding pane into webpage with Chromium extension](https://xfox111.blogspot.com/2020/07/embedding-pane-into-webpage-with.html)
-- [FoxTube v2.0 Changelog](https://xfox111.blogspot.com/2020/06/foxtube-v20-changelog.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### Support me
