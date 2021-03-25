@@ -1,4 +1,4 @@
-### Hello World! I'm Michael aka XFox 👋
+### Hello World! I'm Eugene aka XFox 👋
 I'm a .NET Software Developer
 
 - 🔭 I’m currently working on YouTube client for Windows 10 🎞 and IoT stuff 🏡
