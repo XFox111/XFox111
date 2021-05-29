@@ -4,8 +4,8 @@ I'm a .NET Software Developer
 - 🔭 I’m currently working on YouTube client for Windows 10 🎞 and IoT stuff 🏡
 - 🌱 I’m currently learning quantum computing 🎇✨ and AI 🤖
 - 💬 Ask me about UWP, C#, or other .NET stuff 🐱‍🏍
-- 📫 How to reach me: michael@xfox111.net ✉
-- 😄 Pronouns: Fantastic Mr. Fox 🦊
+- 📫 How to reach me: eugene@xfox111.net ✉
+- 😄 Pronouns: He/him
 - ⚡ Fun fact: HTML is not a programming language
 
 ### Contact me on
