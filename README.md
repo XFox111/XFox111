@@ -15,17 +15,18 @@ I'm a .NET Software Developer
 
 ### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="C Sharp" width="26px" src="https://xfox111.net/images/Badges/csharp.png" />
+<img align="left" alt="CSharp" width="26px" src="https://xfox111.net/images/Badges/csharp.png" />
+<img align="left" alt="ReactJS" width="26px" src="https://xfox111.net/images/Badges/react.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://xfox111.net/images/Badges/javascript.png" />
 <img align="left" alt=".NET" width="26px" src="https://xfox111.net/images/Badges/dotnet.png" />
 <img align="left" alt="ASP.NET" width="26px" src="https://xfox111.net/images/Badges/aspnet.png" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Windows" width="26px" src="https://xfox111.net/images/Badges/windows.png" />
 <img align="left" alt="Xamarin" width="26px" src="https://xfox111.net/images/Badges/xamarin.png" />
 <img align="left" alt="Android" width="26px" src="https://xfox111.net/images/Badges/android.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://xfox111.net/images/Badges/javascript.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Microsoft Edge" width="26px" src="https://xfox111.net/images/Badges/edge.png" />
+<img align="left" alt="Chromium extensions" width="26px" src="https://xfox111.net/images/Badges/edge.png" />
 <img alt="GitHub" width="26px" src="https://xfox111.net/images/Badges/github.png" />
 
 ### 📰 My recent blog posts
