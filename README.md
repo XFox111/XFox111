@@ -1,12 +1,12 @@
 ### Hello World! I'm Eugene aka XFox 👋
 I'm a .NET Software Developer
 
-- 🔭 I’m currently working on YouTube client for Windows 10 🎞 and IoT stuff 🏡
-- 🌱 I’m currently learning quantum computing 🎇✨ and AI 🤖
+- 🔭 I’m currently working on QR code authentication service 🔑 and torrent client for Windows 11 😈
+- 🌱 I’d like to learn more about quantum computing 🎇✨ and AI 🤖
 - 💬 Ask me about UWP, C#, or other .NET stuff 🐱‍🏍
 - 📫 How to reach me: eugene@xfox111.net ✉
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: HTML is not a programming language
+- ⚡ Fun fact: C# is Microsoft Java
 
 ### Contact me on
 [<img align="left" alt="XFox111.NET | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
