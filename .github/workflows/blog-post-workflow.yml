@@ -13,4 +13,4 @@ jobs:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "https://xfox111.net/RSS"
+          feed_list: "https://blog.xfox111.net/data/rss"
