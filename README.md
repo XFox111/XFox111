@@ -1,7 +1,7 @@
 ### Hello World! I'm Eugene aka XFox 👋
 I'm a .NET Software Developer
 
-- 🔭 I’m currently working on QR code authentication service 🔑 and torrent client for Windows 11 😈
+- 🔭 I’m currently working on [QR code authentication service 🔑 EasyLogon](https://easylogon.foxdev.studio) and launching own startup!
 - 🌱 I’d like to learn more about quantum computing 🎇✨ and AI 🤖
 - 💬 Ask me about UWP, C#, or other .NET stuff 🐱‍🏍
 - 📫 How to reach me: eugene@xfox111.net ✉
