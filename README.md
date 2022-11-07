@@ -9,9 +9,9 @@ I'm a .NET Software Developer
 - ⚡ Fun fact: C# is Microsoft Java
 
 ### Contact me on
-[<img align="left" alt="XFox111.NET | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="XFox111 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img alt="XFox | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+- [Website](https://xfox111.net)
+- [Twitter](https://twitter.com/xfox111)
+- [LinkedIn](https://linkedin.com/in/xfox)
 
 <!-- ### Languages and Tools:
 
