@@ -1,7 +1,7 @@
 ### Hello World! I'm Eugene aka XFox 👋
 I'm a .NET Software Developer
 
-- 🔭 I’m currently working on [QR code authentication service 🔑 EasyLogon](https://easylogon.foxdev.studio) and launching own startup!
+- 🔭 I’m currently working on [Tabs aside chrome extension](https://github.com/xfox111/TabsAsideExtension)!
 - 🌱 I’d like to learn more about quantum computing 🎇✨ and AI 🤖
 - 💬 Ask me about UWP, C#, or other .NET stuff 🐱‍🏍
 - 📫 How to reach me: eugene@xfox111.net ✉
@@ -41,13 +41,16 @@ I'm a .NET Software Developer
 ### Support me
 Community support is very important: the less I concern about getting money, the more I'm focused on contributing to Community 
 
-<a href="https://www.buymeacoffee.com/xfox111" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/lato-black.png" alt="Buy Me A Coffee" height="40"></a>
+[![Buy me a Coffee](https://img.buymeacoffee.com/button-api/?text=Buy+me+a+coffee&emoji=&slug=xfox111&button_colour=2d333b&font_colour=ffffff&font_family=Cookie&outline_colour=ffffff&coffee_colour=FFDD00#gh-dark-mode-only)](https://www.buymeacoffee.com/xfox111#gh-dark-mode-only)
+[![Buy me a Coffee](https://img.buymeacoffee.com/button-api/?text=Buy+me+a+coffee&emoji=&slug=xfox111&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff#gh-light-mode-only)](https://www.buymeacoffee.com/xfox111#gh-light-mode-only)
 
 ---
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=xfox111&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=xfox111&count_private=true&show_icons=true&border_color=444c56&bg_color=2d333b&card_width=400&theme=github_dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=xfox111&count_private=true&show_icons=true&card_width=400&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xfox111&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top usde languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xfox111&border_color=444c56&bg_color=2d333b&layout=compact&card_width=350&theme=github_dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Top usde languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xfox111&card_width=350&layout=compact#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 [website]: https://xfox111.net
 [twitter]: https://twitter.com/xfox111
