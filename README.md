@@ -8,10 +8,39 @@ I'm a .NET Software Developer
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: C# is Microsoft Java
 
-### Contact me on
-- [Website](https://xfox111.net)
-- [Twitter](https://twitter.com/xfox111)
-- [LinkedIn](https://linkedin.com/in/xfox)
+### My tech stack
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/CSharp-239120?style=flat&logo=csharp&logoColor=white)
+![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=flat&logo=windows&logoColor=white)
+![UWP](https://img.shields.io/badge/UWP-0078D6?style=flat&logo=windows&logoColor=white)
+![Xamarin.Forms](https://img.shields.io/badge/Xamarin-3498DB?style=flat&logo=xamarin&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+
+<!-- ![C#](https://img.shields.io/badge/CSharp-239120?style=flat&logo=csharp&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)
+![UWP](https://img.shields.io/badge/Universal%20Windows%20Platform-0078D6?style=flat&logo=windows&logoColor=white)
+![Xamarin.Forms](https://img.shields.io/badge/Xamarin.Forms-3498DB?style=flat&logo=xamarin&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=unity&logoColor=black)
+![Microsoft SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio%2fVS%20Code-5C2D91?style=flat&logo=visualstudio&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat&logo=azuredevops&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Adobe Creative Cloud](https://img.shields.io/badge/Creative%20Cloud-FF0000?style=flat&logo=adobe&logoColor=white) -->
 
 <!-- ### Languages and Tools:
 
@@ -37,6 +66,12 @@ I'm a .NET Software Developer
 - [Embedding panel into webpage with WebExtension](https://blog.xfox111.net/nVbdSgoKkJ7)
 - [Tabs Aside extension for chromium-based browsers](https://blog.xfox111.net/3QehjeKA8tL)
 <!-- BLOG-POST-LIST:END -->
+
+### Contact me on
+[![Website](https://img.shields.io/badge/Website-0076D6?style=flat&logo=internetexplorer&logoColor=white)](https://xfox111.net)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/xfox111)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/xfox)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/xfox111)
 
 ---
 
