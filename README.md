@@ -3,7 +3,7 @@ I'm a .NET Software Developer
 
 - 🔭 I’m currently working on [Tabs aside chrome extension](https://github.com/xfox111/TabsAsideExtension)!
 - 🌱 I’d like to learn more about quantum computing 🎇✨ and AI 🤖
-- 💬 Ask me about UWP, C#, or other .NET stuff 🐱‍🏍
+- 💬 Ask me about UWP, C#, or any other .NET stuff 🐱‍🏍
 - 📫 How to reach me: eugene@xfox111.net ✉
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: C# is Microsoft Java
@@ -38,6 +38,14 @@ I'm a .NET Software Developer
 - [Tabs Aside extension for chromium-based browsers](https://blog.xfox111.net/3QehjeKA8tL)
 <!-- BLOG-POST-LIST:END -->
 
+---
+
+### #StandWithUkraine 💛💙
+My country has started an unlawful and terrible war against people of Ukraine. The least I can do is help them recover as quickly as possible. You can help them too. Visit https://u24.gov.ua/ and see how you can help. Any amount matters!
+ 
+Україна переможе! Все буде Україна!
+
+
 ### Support me
 Community support is very important: the less I concern about getting money, the more I'm focused on contributing to Community 
 
@@ -51,7 +59,3 @@ Community support is very important: the less I concern about getting money, the
 
 [![Top usde languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xfox111&border_color=444c56&bg_color=2d333b&layout=compact&card_width=350&theme=github_dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Top usde languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xfox111&card_width=350&layout=compact#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-
-[website]: https://xfox111.net
-[twitter]: https://twitter.com/xfox111
-[linkedin]: https://linkedin.com/in/xfox
