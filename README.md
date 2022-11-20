@@ -1,7 +1,7 @@
 ### Hello World! I'm Eugene aka XFox 👋
 I'm a .NET Software Developer
 
-- 🔭 I’m currently working on [Tabs aside chrome extension](https://github.com/xfox111/TabsAsideExtension)!
+- 🔭 I’m currently working on [Tabs aside chrome extension](https://github.com/xfox111/TabsAsideExtension) and learning DDD, microservices and Docker!
 - 🌱 I’d like to learn more about quantum computing 🎇✨ and AI 🤖
 - 💬 Ask me about UWP, C#, or any other .NET stuff 🐱‍🏍
 - 📫 How to reach me: eugene@xfox111.net ✉
