@@ -70,8 +70,8 @@ Community support is very important: the less I concern about getting money, the
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
 	<picture>
-		<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=xfox111&border_color=444c56&bg_color=2d333b&layout=compact&card_width=350&theme=github_dark">
-		<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=xfox111&card_width=350&layout=compact">
-		<img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xfox111&card_width=350&layout=compact">
+		<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=xfox111&border_color=444c56&bg_color=2d333b&layout=compact&card_width=438&theme=github_dark">
+		<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=xfox111&card_width=438&layout=compact">
+		<img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xfox111&card_width=338&layout=compact">
 	</picture>
 </a>
