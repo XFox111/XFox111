@@ -1,16 +1,15 @@
 ### 👋 Hello World! I'm Eugene aka XFox
 I'm a .NET and React Developer
 
-- 🔭 I’m currently working on [Tabs aside chrome extension](https://github.com/xfox111/TabsAsideExtension) and learning Blazor!
+- 🔭 I’m currently working on [Tabs aside chrome extension](https://github.com/xfox111/TabsAsideExtension)!
 - 🌱 I’d like to learn more about quantum computing 🎇✨ and AI 🤖
 - 💬 Ask me about any .NET 🐱‍🏍 or React ⚛️ stuff
 - 📫 How to reach me: eugene@xfox111.net ✉
-- 😄 Pronouns: He/him
 - ⚡ Fun fact: C# is Microsoft Java
 
 ### 🛠️ My tech stack
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square)
 ![UWP/WinUI](https://img.shields.io/badge/UWP%2FWinUI-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![Xamarin/MAUI](https://img.shields.io/badge/Xamarin%2FMAUI-3498DB?style=flat-square&logo=xamarin&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
@@ -32,10 +31,11 @@ I'm a .NET and React Developer
 
 ### 📪 Contacts and links
 [![Website](https://img.shields.io/badge/xfox111.net-292929?style=flat-square&logo=data:image/png;base64,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)](https://xfox111.net)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/xfox)
 [![Email](https://img.shields.io/badge/eugene@xfox111.net-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white)](mailto:eugene@xfox111.net)
-[![Twitter](https://img.shields.io/badge/Twitter-1D9BF0?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/xfox111)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/xfox111)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/xfox)
+[![Facebook](https://img.shields.io/badge/Facebook-0866FF?style=flat-square&logo=facebook&logoColor=white)](https://t.me/xfox111)
+[![Twitter](https://img.shields.io/badge/ex%E2%80%93Twitter-1D9BF0?style=flat-square&logo=x&logoColor=white)](https://twitter.com/xfox111)
 
 ---
 
