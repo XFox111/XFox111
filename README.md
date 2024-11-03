@@ -35,7 +35,7 @@ I'm a .NET and React Developer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/xfox)
 [![Facebook](https://img.shields.io/badge/Facebook-0866FF?style=flat-square&logo=facebook&logoColor=white)](https://t.me/xfox111)
-[![Twitter](https://img.shields.io/badge/ex%E2%80%93Twitter-1D9BF0?style=flat-square&logo=x&logoColor=white)](https://twitter.com/xfox111)
+[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=flat-square&logo=bluesky&logoColor=white)](https://bsky.app/profile/xfox111.net)
 
 ---
 
