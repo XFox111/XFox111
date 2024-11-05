@@ -60,18 +60,16 @@ Community support is very important: the less I concern about getting money, the
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
 	<picture>
-		<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=xfox111&count_private=true&show_icons=true&border_color=444c56&bg_color=2d333b&card_width=400&theme=github_dark">
-		<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=xfox111&count_private=true&show_icons=true&card_width=400&theme=default">
-		<img alt="Eugene Fox' GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=xfox111&count_private=true&show_icons=true&card_width=400&theme=default">
+		<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=xfox111&count_private=true&show_icons=true&hide_border=true&card_width=400&bg_color=ffffff00&theme=github_dark">
+		<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=xfox111&count_private=true&show_icons=true&hide_border=true&card_width=400&bg_color=ffffff00">
+		<img alt="Eugene Fox' GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=xfox111&count_private=true&show_icons=true&hide_border=true&card_width=400&bg_color=ffffff00">
 	</picture>
 </a>
 
-<br />
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
 	<picture>
-		<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=xfox111&border_color=444c56&bg_color=2d333b&layout=compact&card_width=438&theme=github_dark">
-		<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=xfox111&card_width=438&layout=compact">
-		<img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xfox111&card_width=338&layout=compact">
+		<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=xfox111&layout=compact&card_width=438&hide_border=true&bg_color=ffffff00&theme=github_dark">
+		<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=xfox111&layout=compact&card_width=438&hide_border=true&bg_color=ffffff00">
+		<img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xfox111&layout=compact&card_width=438&hide_border=true&bg_color=ffffff00">
 	</picture>
 </a>
