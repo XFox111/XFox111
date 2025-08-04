@@ -22,11 +22,11 @@ I'm a .NET and React Developer
 
 ### 📰 My recent blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Setting up CI/CD for Web-browser extension with GitHub Actions](https://blog.xfox111.net/XRC-bHdZCNJ)
-- [Password generator extension: High security in one click!](https://blog.xfox111.net/7cZOt9zD71x)
-- [Developing browser extensions with Visual Studio Code](https://blog.xfox111.net/h8fe86m_oGO)
-- [Embedding panel into webpage with WebExtension](https://blog.xfox111.net/nVbdSgoKkJ7)
-- [Tabs Aside extension for chromium-based browsers](https://blog.xfox111.net/3QehjeKA8tL)
+- [Finally, Tabs aside 3.0 is here!](https://blog.xfox111.net/tabs-aside-3-0?utm_source=teletype&utm_medium=feed_rss&utm_campaign=xfox111)
+- [Setting up CI/CD for Web-browser extension with GitHub Actions](https://blog.xfox111.net/XRC-bHdZCNJ?utm_source=teletype&utm_medium=feed_rss&utm_campaign=xfox111)
+- [Password generator extension: High security in one click!](https://blog.xfox111.net/7cZOt9zD71x?utm_source=teletype&utm_medium=feed_rss&utm_campaign=xfox111)
+- [Developing browser extensions with Visual Studio Code](https://blog.xfox111.net/h8fe86m_oGO?utm_source=teletype&utm_medium=feed_rss&utm_campaign=xfox111)
+- [Embedding panel into webpage with WebExtension](https://blog.xfox111.net/nVbdSgoKkJ7?utm_source=teletype&utm_medium=feed_rss&utm_campaign=xfox111)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📪 Contacts and links
