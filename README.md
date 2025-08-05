@@ -1,7 +1,7 @@
 ### 👋 Hello World! I'm Eugene aka XFox
 I'm a .NET and React Developer
 
-- 🔭 I’m currently working on [Tabs aside chrome extension](https://github.com/xfox111/TabsAsideExtension)!
+- 🔭 I’m currently working on a secret .NET project 🤫
 - 🌱 I’d like to learn more about quantum computing 🎇✨ and AI 🤖
 - 💬 Ask me about any .NET 🐱‍🏍 or React ⚛️ stuff
 - 📫 How to reach me: eugene@xfox111.net ✉
@@ -38,6 +38,12 @@ I'm a .NET and React Developer
 [![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=flat-square&logo=bluesky&logoColor=white)](https://bsky.app/profile/xfox111.net)
 
 ---
+
+### #StandWithUkraine 💛💙
+
+My country is waging unlawful and terrible war against people of Ukraine. The least I can do is help them recover as quickly as possible. You can help them too. Visit https://u24.gov.ua and see how you can help. Any amount matters!
+
+Україна переможе! Все буде Україна!
 
 ### Support me
 Community support is very important: the less I concern about getting money, the more I'm focused on contributing to Community
