@@ -39,12 +39,6 @@ I'm a .NET and React Developer
 
 ---
 
-### #StandWithUkraine 💛💙
-
-My country is waging unlawful and terrible war against people of Ukraine. The least I can do is help them recover as quickly as possible. You can help them too. Visit https://u24.gov.ua and see how you can help. Any amount matters!
-
-Україна переможе! Все буде Україна!
-
 ### Support me
 Community support is very important: the less I concern about getting money, the more I'm focused on contributing to Community
 
