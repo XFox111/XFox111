@@ -34,7 +34,7 @@ I'm a .NET and React Developer
 [![Email](https://img.shields.io/badge/eugene@xfox111.net-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white)](mailto:eugene@xfox111.net)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/xfox)
-[![Facebook](https://img.shields.io/badge/Facebook-0866FF?style=flat-square&logo=facebook&logoColor=white)](https://t.me/xfox111)
+[![Facebook](https://img.shields.io/badge/Facebook-0866FF?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/xfox111)
 [![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=flat-square&logo=bluesky&logoColor=white)](https://bsky.app/profile/xfox111.net)
 
 ---
